@@ -1,0 +1,10 @@
+# Image Processing Project
+
+This project is a simple tool for image processing, 
+built using Python's Tkinter library for the GUI, and PIL (Python Imaging Library) for handling image operations.
+
+## Features
+
+- **File Browsing**: Easily browse and select image files from your local storage.
+- **Image Processing**: Apply a median filter to the selected image, which can help reduce noise in the image.
+
